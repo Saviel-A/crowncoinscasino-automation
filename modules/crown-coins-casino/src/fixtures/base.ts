@@ -1,8 +1,8 @@
 import { test as base } from '@playwright/test';
 import { formatDateTime } from '../utils/date-time-formatter';
 import { consoleLogger, logger, networkLogger } from '../utils/logger';
-import { HomePage } from '../pages/home-page';
 import { config } from '../config/config';
+import { HomePage } from '../pages/home-page';
 import { LobbyPage } from '../pages/lobby-page';
 
 export const test = base.extend<{
