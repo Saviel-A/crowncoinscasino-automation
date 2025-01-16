@@ -17,7 +17,6 @@ export class EditProfileComponent {
         this.applyBtn = new Button({ page, locator: 'button.button--main >> text=Apply', name: 'Apply Button' });
     }
 
-    // Step for filling username
     @step("Fill the username in the profile edit form")
     async fillUsername(username: string) {
         await this.usernameInput.fill(username);
