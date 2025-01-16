@@ -1,0 +1,27 @@
+# Environment variables
+.env
+.env*
+
+# Logs
+logs
+
+# Playwright output
+test-results/
+playwright-report/
+
+# Allure output
+allure-report
+allure-results
+
+# Node.js dependencies
+node_modules/
+pnpm-lock.yaml
+
+# macOS specific files
+.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+# Additional folders to ignore
+.idea
+.codegpt
