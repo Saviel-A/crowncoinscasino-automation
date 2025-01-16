@@ -17,9 +17,9 @@ This repository contains an automated test for the Crown Coins Casino web applic
 - pnpm package manager (if you don't have pnpm installed, you can install it by running: npm install -g pnpm).
 
 ### Steps to Install:
-    1. Clone the repository: git clone https://github.com/your-repo/crown-coins-casino.git.
-    2. Navigate to the project directory: cd crown-coins-casino.
-    3. Install dependencies using pnpm: pnpm install.
+1. Clone the repository: git clone https://github.com/Saviel-A/crowncoinscasino-automation.git.
+2. Navigate to the project directory: cd crown-coins-casino.
+3. Install dependencies using pnpm: pnpm install.
 
 ## Environment Setup
 
