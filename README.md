@@ -75,6 +75,8 @@ The purpose of this test is to ensure the following:
 6. Update the username with a random string.
 7. Choose a random avatar.
 8. Click Apply.
+9. Click on profile to verify that the username has been updated.
+10. After verifying the profile update, extract and log the current balance of social coins.
 
 #### Validation:
 - Open My Profile and verify that the username has been updated.
